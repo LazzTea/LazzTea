@@ -3,7 +3,7 @@
 
 **`Software and AI Developer`**
 
-Im a Computer Science student at UCLA who specializes in Software and Artificial Intellegence.  I've worked on various AI-focused projects and Labs at the University.
+I came to Computer Science through a love of math and economics! Fascinated by how the same principles that govern physical systems show up in markets, prices, and human behavior. At UCLA, I've pursued that thread through machine learning, algorithm design, and systems programming. I've built various High Frequency Trading, Low Level Systems, and Machine Learning projects.  I'm looking for roles in quantitative finance, trading systems, or ML research where I can apply my extensive knowledge and interest in these fields.
 
 ---
 
